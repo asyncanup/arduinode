@@ -1,0 +1,24 @@
+{
+  "name": "arduinode",
+  "version": "0.0.1",
+  "description": "experiments with arduino",
+  "main": "index.js",
+  "dependencies": {
+    "express": "^4.4.1",
+    "johnny-five": "~0.7.46"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/anupbishnoi/arduinode.git"
+  },
+  "author": "Anup Bishnoi",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/anupbishnoi/arduinode/issues"
+  },
+  "homepage": "https://github.com/anupbishnoi/arduinode"
+}
